@@ -44,7 +44,7 @@
     </a>
     <br>
     <br>
-    <img src="https://raw.githubusercontent.com/Ryubing/Ryujinx/refs/heads/master/docs/shell.png">
+    <img src="src/Ryujinx/shell.png">
 </p>
 
 ## Usage
