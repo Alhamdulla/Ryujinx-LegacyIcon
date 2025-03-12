@@ -1,7 +1,7 @@
 <table align="center">
     <tr>
         <td align="center" width="25%">
-            <img src=""><img src="distribution/misc/Logo.svg" alt="Ryujinx" >
+            <img src=""><img src="distribution/misc/Logo.svg" alt="Ryujinx" width="1024">
         </td>
         <td align="center" width="75%">
           
