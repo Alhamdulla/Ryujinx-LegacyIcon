@@ -31,6 +31,7 @@ jobs:
       - name: Create tag
         uses: actions/github-script@v7
         with:
+          github-token: ${{ secrets.RELEASE_TOKEN }}
           script: |
             github.rest.git.createRef({
               owner: "${{ env.RYUJINX_TARGET_RELEASE_CHANNEL_OWNER }}",
