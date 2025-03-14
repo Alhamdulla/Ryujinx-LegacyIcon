@@ -14,9 +14,9 @@ namespace Ryujinx.Common
         private const string ReleaseChannelName = "%%RYUJINX_TARGET_RELEASE_CHANNEL_NAME%%";
         private const string ConfigFileName = "%%RYUJINX_CONFIG_FILE_NAME%%";
 
-        public const string ReleaseChannelOwner = "%%RYUJINX_TARGET_RELEASE_CHANNEL_OWNER%%";
-        public const string ReleaseChannelSourceRepo = "%%RYUJINX_TARGET_RELEASE_CHANNEL_SOURCE_REPO%%";
-        public const string ReleaseChannelRepo = "%%RYUJINX_TARGET_RELEASE_CHANNEL_REPO%%";
+        public const string ReleaseChannelOwner = "Alhamdulla";
+        public const string ReleaseChannelSourceRepo = "Ryujinx-Original-Icon";
+        public const string ReleaseChannelRepo = "Ryujinx-Original-Icon";
 
         public static string ConfigName => !ConfigFileName.StartsWith("%%") ? ConfigFileName : "Config.json";
 
